@@ -10,6 +10,16 @@
       "description": "Katalog rute pendakian Gunung Sumbing.",
       "routes_catalog": "routes/sumbing/routes.json",
       "is_published": true
+    },
+    {
+      "id": "sindoro",
+      "name": "Gunung Sindoro",
+      "region": "Temanggung, Wonosobo, Magelang",
+      "province": "Jawa Tengah",
+      "country": "Indonesia",
+      "description": "Katalog rute pendakian Gunung Sindoro.",
+      "routes_catalog": "routes/sindoro/routes.json",
+      "is_published": true
     }
   ]
 }
