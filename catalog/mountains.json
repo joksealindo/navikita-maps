@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "mountains": [
+    {
+      "id": "sumbing",
+      "name": "Gunung Sumbing",
+      "region": "Temanggung, Wonosobo, Magelang",
+      "province": "Jawa Tengah",
+      "country": "Indonesia",
+      "description": "Katalog rute pendakian Gunung Sumbing.",
+      "routes_catalog": "routes/sumbing/routes.json",
+      "is_published": true
+    }
+  ]
+}
