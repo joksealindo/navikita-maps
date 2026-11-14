@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "mountain_id": "sindoro",
+  "routes": [
+    {
+      "id": "kledung",
+      "name": "Kledung",
+      "mountain_id": "sindoro",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/kledung.gpx",
+      "status": "draft"
+    }
+  ]
+}
