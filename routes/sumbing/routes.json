@@ -27,6 +27,19 @@
       "description": null,
       "gpx_file": "routes/sumbing/garung.gpx",
       "status": "draft"
+    },
+    {
+      "id": "sumbing-batursari",
+      "name": "Batursari",
+      "mountain_id": "sumbing",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/batursari.gpx",
+      "status": "draft"
     }
   ]
 }
