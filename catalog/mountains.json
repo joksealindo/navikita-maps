@@ -3,6 +3,7 @@
   "mountains": [
     {
       "id": "sumbing",
+      "thumbnail": "mountain_sumbing.jpg",
       "name": "Gunung Sumbing",
       "region": "Temanggung, Wonosobo, Magelang",
       "province": "Jawa Tengah",
@@ -12,6 +13,7 @@
     },
     {
       "id": "sindoro",
+      "thumbnail": "mountain_sindoro.jpg",
       "name": "Gunung Sindoro",
       "region": "Temanggung, Wonosobo",
       "province": "Jawa Tengah",
@@ -21,6 +23,7 @@
     },
     {
       "id": "merbabu",
+      "thumbnail": "mountain_merbabu.jpg",
       "name": "Gunung Merbabu",
       "region": "Magelang, Semarang, Boyolali",
       "province": "Jawa Tengah",
