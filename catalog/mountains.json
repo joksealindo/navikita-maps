@@ -18,6 +18,15 @@
       "description": "Katalog rute pendakian Gunung Sindoro.",
       "routes_catalog": "routes/sindoro/routes.json",
       "is_published": true
+    },
+    {
+      "id": "merbabu",
+      "name": "Gunung Merbabu",
+      "region": "Magelang, Semarang, Boyolali",
+      "province": "Jawa Tengah",
+      "description": "Katalog rute pendakian Gunung Merbabu.",
+      "routes_catalog": "routes/merbabu/routes.json",
+      "is_published": true
     }
   ]
 }
