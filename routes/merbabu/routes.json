@@ -15,6 +15,20 @@
       "description": null,
       "gpx_file": "routes/merbabu/thekelan.gpx",
       "status": "draft"
+    },
+    {
+      "id": "selo",
+      "name": "Selo",
+      "mountain_id": "merbabu",
+      "location": "Kec. Selo, Boyolali",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/merbabu/selo.gpx",
+      "status": "draft"
     }
   ]
 }
