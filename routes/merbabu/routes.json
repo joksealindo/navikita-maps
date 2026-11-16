@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "mountain_id": "merbabu",
+  "routes": [
+    {
+      "id": "thekelan",
+      "name": "Thekelan",
+      "mountain_id": "merbabu",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/merbabu/thekelan.gpx",
+      "status": "draft"
+    }
+  ]
+}
