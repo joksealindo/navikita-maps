@@ -73,6 +73,20 @@
       "status": "draft"
     },
     {
+      "id": "sumbing-mangli",
+      "name": "Mangli",
+      "mountain_id": "sumbing",
+      "location": "Kec. Kaliangkrik, Magelang",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/mangli.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sumbing-bowongso",
       "name": "Bowongso",
       "mountain_id": "sumbing",
