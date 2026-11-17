@@ -31,6 +31,20 @@
       "status": "draft"
     },
     {
+      "id": "sumbing-banaran",
+      "name": "Banaran",
+      "mountain_id": "sumbing",
+      "location": "Kec. Tembarak, Temanggung",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/banaran.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sumbing-batursari",
       "name": "Batursari",
       "mountain_id": "sumbing",
