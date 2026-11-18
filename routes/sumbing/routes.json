@@ -13,7 +13,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/dukuh-seman.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/dukuh-seman.gpx",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/garung.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/garung.gpx",
       "status": "draft"
     },
     {
@@ -41,7 +41,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/banaran.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/banaran.gpx",
       "status": "draft"
     },
     {
@@ -55,7 +55,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/batursari.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/batursari.gpx",
       "status": "draft"
     },
     {
@@ -69,7 +69,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/kaliangkrik-adipuro.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/kaliangkrik-adipuro.gpx",
       "status": "draft"
     },
     {
@@ -83,7 +83,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/mangli.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/mangli.gpx",
       "status": "draft"
     },
     {
@@ -97,7 +97,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/bowongso.gpx",
+      "gpx_file": "https://navikita-gpx.jokisealindo.workers.dev/bowongso.gpx",
       "status": "draft"
     }
   ]
