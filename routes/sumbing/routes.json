@@ -59,6 +59,20 @@
       "status": "draft"
     },
     {
+      "id": "sumbing-batursari",
+      "name": "Batursari",
+      "mountain_id": "sumbing",
+      "location": "Kec. Kledung, Temanggung",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/batursari.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sumbing-banaran",
       "name": "Banaran",
       "mountain_id": "sumbing",
@@ -73,17 +87,17 @@
       "status": "draft"
     },
     {
-      "id": "sumbing-batursari",
-      "name": "Batursari",
+      "id": "sumbing-mangli",
+      "name": "Mangli",
       "mountain_id": "sumbing",
-      "location": "Kec. Kledung, Temanggung",
+      "location": "Kec. Kaliangkrik, Magelang",
       "start_point": null,
       "distance_km": null,
       "elevation_gain_m": null,
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/batursari.gpx",
+      "gpx_file": "routes/sumbing/mangli.gpx",
       "status": "draft"
     },
     {
@@ -115,17 +129,17 @@
       "status": "draft"
     },
     {
-      "id": "sumbing-mangli",
-      "name": "Mangli",
+      "id": "sumbing-gajah-mungkur",
+      "name": "Gajah-Mungkur",
       "mountain_id": "sumbing",
-      "location": "Kec. Kaliangkrik, Magelang",
+      "location": "Kalikajar Wonosobo",
       "start_point": null,
       "distance_km": null,
       "elevation_gain_m": null,
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/mangli.gpx",
+      "gpx_file": "routes/sumbing/gajah-mungkur.gpx",
       "status": "draft"
     },
     {
@@ -140,20 +154,6 @@
       "difficulty": null,
       "description": null,
       "gpx_file": "routes/sumbing/bowongso.gpx",
-      "status": "draft"
-    },
-    {
-      "id": "sumbing-gajah-mungkur",
-      "name": "Gajah-Mungkur",
-      "mountain_id": "sumbing",
-      "location": "Kalikajar Wonosobo",
-      "start_point": null,
-      "distance_km": null,
-      "elevation_gain_m": null,
-      "estimated_duration": null,
-      "difficulty": null,
-      "description": null,
-      "gpx_file": "routes/sumbing/gajah-mungkur.gpx",
       "status": "draft"
     }
   ]
