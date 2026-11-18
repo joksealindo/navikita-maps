@@ -1,69 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
     <metadata>
-        <name>Sumbing via Kaliangkrik</name>
+        <name>Sumbing via Butuh</name>
+        <desc>Navikita by Tepidaun</desc>
     </metadata>
-    <wpt lat="-7.41760285" lon="110.07701945">
-        <ele>1723</ele>
-        <name>BASECAMP KALIANGRIK ADIPURO&#13;
-</name>
+    <wpt lat="-7.417603" lon="110.077019">
+        <ele>1696.1045349604294</ele>
+        <name>Basecamp Butuh</name>
+        <cmt>Nepal Van Java</cmt>
+        <desc>Nepal Van Java</desc>
     </wpt>
-    <wpt lat="-7.38247647" lon="110.07359267">
-        <ele>3259.8</ele>
-        <name>KAWAH</name>
+    <wpt lat="-7.406571" lon="110.077888">
+        <ele>2145.81467204926</ele>
+        <name>Pos 1</name>
     </wpt>
-    <wpt lat="-7.38237496" lon="110.07903697">
-        <ele>3270.03</ele>
-        <name>SIMPANG KAWAH&#13;
-</name>
+    <wpt lat="-7.400127" lon="110.076706">
+        <ele>2453.062952639976</ele>
+        <name>Pos 2</name>
     </wpt>
-    <wpt lat="-7.38896037" lon="110.08437708">
-        <ele>2710.8</ele>
-        <name>PERTIGAAN</name>
+    <wpt lat="-7.391695" lon="110.084665">
+        <ele>2629.4669583303476</ele>
+        <name>Pos 3 Air</name>
     </wpt>
-    <wpt lat="-7.40737055" lon="110.07780978">
-        <ele>2124</ele>
-        <name>POS 1</name>
+    <wpt lat="-7.384286" lon="110.083319">
+        <ele>2969.658246382556</ele>
+        <name>Pos 4 Pohon Tunggal</name>
     </wpt>
-    <wpt lat="-7.40012691" lon="110.07670605">
-        <ele>2449.6</ele>
-        <name>POS 2</name>
+    <wpt lat="-7.384421" lon="110.077407">
+        <ele>3296.2228659324096</ele>
+        <name>Puncak Sejati</name>
     </wpt>
-    <wpt lat="-7.39169489" lon="110.08466517">
-        <ele>2613.2</ele>
-        <name>POS 3 (AIR)</name>
-    </wpt>
-    <wpt lat="-7.3842857" lon="110.08331928">
-        <ele>3001.2</ele>
-        <name>POS 4 POHON TUNGGAL&#13;
-</name>
-    </wpt>
-    <wpt lat="-7.383589" lon="110.07812996">
-        <ele>3315.93</ele>
-        <name>PUNCAK SEGORO BANJARAN&#13;
-</name>
-    </wpt>
-    <wpt lat="-7.38442141" lon="110.07740719">
-        <ele>3322.6</ele>
-        <name>PUNCAK SEJATI&#13;
-</name>
-    </wpt>
-    <wpt lat="-7.38419811" lon="110.07544239">
-        <ele>0</ele>
-        <name>SABANA SEGORO BANJARAN</name>
-    </wpt>
-    <wpt lat="-7.39238581" lon="110.08499558">
-        <ele>2608.8</ele>
-        <name>SIMPANG MANGGIL</name>
-    </wpt>
-    <wpt lat="-7.39046099" lon="110.08443299">
-        <ele>2624</ele>
-        <name>SUNGAI</name>
+    <wpt lat="-7.384198" lon="110.075442">
+        <ele>3185.4283873299137</ele>
+        <name>Sabana Segoro Banjaran</name>
     </wpt>
     <wpt lat="-7.38331" lon="110.07126">
-        <ele>0</ele>
-        <name>PUNCAK RAJAWALI&#13;
-</name>
+        <ele>3328.967270720268</ele>
+        <name>Puncak Rajawali</name>
+        <cmt>Navikita by Tepidaun</cmt>
+        <desc>Navikita by Tepidaun</desc>
     </wpt>
     <trk>
         <name>Track 015</name>
