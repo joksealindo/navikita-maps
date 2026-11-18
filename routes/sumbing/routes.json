@@ -59,8 +59,8 @@
       "status": "draft"
     },
     {
-      "id": "sumbing-kaliangkrik",
-      "name": "Kaliangkrik",
+      "id": "sumbing-butuh",
+      "name": "Butuh",
       "mountain_id": "sumbing",
       "location": "Kec. Kaliangkrik, Magelang",
       "start_point": null,
@@ -69,7 +69,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/kaliangkrik-adipuro.gpx",
+      "gpx_file": "routes/sumbing/butuh.gpx",
       "status": "draft"
     },
     {
