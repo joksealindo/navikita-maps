@@ -17,6 +17,20 @@
       "status": "draft"
     },
     {
+      "id": "sumbing-cepit",
+      "name": "Cepit",
+      "mountain_id": "sumbing",
+      "location": "Kec. Bulu, Temanggung",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/cepit.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sumbing-garung",
       "name": "Garung",
       "mountain_id": "sumbing",
