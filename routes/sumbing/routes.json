@@ -129,6 +129,20 @@
       "status": "draft"
     },
     {
+      "id": "sumbing-manggolo",
+      "name": "Manggolo",
+      "mountain_id": "sumbing",
+      "location": "Kec. Sapuran, Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/manggolo.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sumbing-gajah-mungkur",
       "name": "Gajah-Mungkur",
       "mountain_id": "sumbing",
