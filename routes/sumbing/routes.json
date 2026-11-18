@@ -100,5 +100,19 @@
       "gpx_file": "routes/sumbing/bowongso.gpx",
       "status": "draft"
     }
+    {
+      "id": "sumbing-lamuk",
+      "name": "Lamuk",
+      "mountain_id": "sumbing",
+      "location": "Kec. Kalikajar, Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/lamuk.gpx",
+      "status": "draft"
+    }
   ]
 }
