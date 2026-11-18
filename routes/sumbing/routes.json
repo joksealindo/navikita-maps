@@ -45,6 +45,20 @@
       "status": "draft"
     },
     {
+      "id": "sumbing-sipetung",
+      "name": "Sipetung",
+      "mountain_id": "sumbing",
+      "location": "Kec. Kledung, Temanggung",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sumbing/sipetung.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sumbing-banaran",
       "name": "Banaran",
       "mountain_id": "sumbing",
