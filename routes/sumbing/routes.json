@@ -101,8 +101,8 @@
       "status": "draft"
     },
     {
-      "id": "sumbing-lamuk",
-      "name": "Lamuk",
+      "id": "sumbing-gajah-mungkur",
+      "name": "Gajah-Mungkur",
       "mountain_id": "sumbing",
       "location": "Kec. Kalikajar, Wonosobo",
       "start_point": null,
@@ -111,7 +111,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/sumbing/lamuk.gpx",
+      "gpx_file": "routes/sumbing/gajah-mungkur.gpx",
       "status": "draft"
     }
   ]
