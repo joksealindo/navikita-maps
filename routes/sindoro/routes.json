@@ -59,6 +59,20 @@
       "status": "draft"
     },
     {
+      "id": "kalitengah",
+      "name": "Kalitengah",
+      "mountain_id": "sindoro",
+      "location": "Kec. Garung, Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sindoro/kalitengah.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sigedang",
       "name": "Sigedang",
       "mountain_id": "sindoro",
