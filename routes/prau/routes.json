@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "mountain_id": "prau",
+  "routes": [
+    {
+      "id": "patak-banteng",
+      "name": "Patak Banteng",
+      "mountain_id": "prau",
+      "location": "Dieng",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/merbabu/patak-banteng.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "dieng",
+      "name": "Dieng",
+      "mountain_id": "prau",
+      "location": "Dieng",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/merbabu/prauviadieng.gpx",
+      "status": "draft"
+    }
+  ]
+}
