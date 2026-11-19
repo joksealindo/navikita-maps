@@ -29,6 +29,20 @@
       "description": null,
       "gpx_file": "routes/sindoro/alang-alang-sewu.gpx",
       "status": "draft"
+    },
+    {
+      "id": "watu-lunyu",
+      "name": "Watu Lunyu",
+      "mountain_id": "sindoro",
+      "location": "Kec. Kertek, Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sindoro/watu-lunyu.gpx",
+      "status": "draft"
     }
   ]
 }
