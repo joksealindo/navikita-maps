@@ -45,6 +45,20 @@
       "status": "draft"
     },
     {
+      "id": "ndoro-arum",
+      "name": "Ndoro Arum",
+      "mountain_id": "sindoro",
+      "location": "Kec. Garung, Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sindoro/ndoro-arum.gpx",
+      "status": "draft"
+    },
+    {
       "id": "sigedang",
       "name": "Sigedang",
       "mountain_id": "sindoro",
@@ -56,6 +70,20 @@
       "difficulty": null,
       "description": null,
       "gpx_file": "routes/sindoro/sigedang.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "bansari",
+      "name": "Bansari",
+      "mountain_id": "sindoro",
+      "location": "Kec. Bansari, Temanggung",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sindoro/bansari.gpx",
       "status": "draft"
     }
   ]
