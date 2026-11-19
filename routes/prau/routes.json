@@ -6,7 +6,7 @@
       "id": "patak-banteng",
       "name": "Patak Banteng",
       "mountain_id": "prau",
-      "location": "Kejajar Wonosobo",
+      "location": "Kec. Kejajar Wonosobo",
       "start_point": null,
       "distance_km": null,
       "elevation_gain_m": null,
@@ -28,6 +28,20 @@
       "difficulty": null,
       "description": null,
       "gpx_file": "routes/prau/prauviadieng.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "wates",
+      "name": "Wates",
+      "mountain_id": "prau",
+      "location": "Kec. Wonoboto, Temanggung",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/prau/wates.gpx",
       "status": "draft"
     }
   ]
