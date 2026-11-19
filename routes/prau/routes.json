@@ -17,6 +17,20 @@
       "status": "draft"
     },
     {
+      "id": "kalilembu",
+      "name": "Kalilembu",
+      "mountain_id": "prau",
+      "location": "Kec. Kejajar Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/prau/kalilembu.gpx",
+      "status": "draft"
+    },
+    {
       "id": "dieng",
       "name": "Dieng",
       "mountain_id": "prau",
