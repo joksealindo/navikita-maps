@@ -13,7 +13,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/merbabu/patak-banteng.gpx",
+      "gpx_file": "routes/prau/patak-banteng.gpx",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/merbabu/prauviadieng.gpx",
+      "gpx_file": "routes/prau/prauviadieng.gpx",
       "status": "draft"
     }
   ]
