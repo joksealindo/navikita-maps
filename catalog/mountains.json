@@ -30,6 +30,16 @@
       "description": "Katalog rute pendakian Gunung Merbabu.",
       "routes_catalog": "routes/merbabu/routes.json",
       "is_published": true
+    },
+    {
+      "id": "prau",
+      "thumbnail": "mountain_prau.jpg",
+      "name": "Gunung Prau",
+      "region": "Temanggung, Wonosobo, Banjarnegara",
+      "province": "Jawa Tengah",
+      "description": "Katalog rute pendakian Gunung Prau.",
+      "routes_catalog": "routes/prau/routes.json",
+      "is_published": true
     }
   ]
 }
