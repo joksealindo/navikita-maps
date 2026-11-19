@@ -45,6 +45,20 @@
       "status": "draft"
     },
     {
+      "id": "dwarawati",
+      "name": "Dwarawati",
+      "mountain_id": "prau",
+      "location": "Kec. Batur, Banjarnegara",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/prau/dwarawati.gpx",
+      "status": "draft"
+    },
+    {
       "id": "wates",
       "name": "Wates",
       "mountain_id": "prau",
