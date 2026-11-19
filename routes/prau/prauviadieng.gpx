@@ -14,16 +14,6 @@
         </link>
         <time>2026-06-23T07:14:35.334Z</time>
     </metadata>
-    <wpt lat="-7.19777" lon="109.917247">
-        <ele>2162.4</ele>
-        <time>2026-06-23T01:00:48.000Z</time>
-        <name>Tree</name>
-    </wpt>
-    <wpt lat="-7.197565" lon="109.917402">
-        <ele>2165.4</ele>
-        <time>2026-06-23T01:02:03.000Z</time>
-        <name>Monument</name>
-    </wpt>
     <wpt lat="-7.196351" lon="109.916521">
         <ele>2180.8</ele>
         <time>2026-06-23T01:10:18.000Z</time>
@@ -34,45 +24,20 @@
         <time>2026-06-23T01:29:52.000Z</time>
         <name>Tanjakan Noer lely</name>
     </wpt>
-    <wpt lat="-7.190751" lon="109.91795">
-        <ele>2357.7</ele>
-        <time>2026-06-23T01:37:41.000Z</time>
-        <name>Intersection Dwarawati</name>
-    </wpt>
     <wpt lat="-7.19064" lon="109.918033">
         <ele>2358.9</ele>
         <time>2026-06-23T01:38:17.000Z</time>
         <name>Pos 2</name>
     </wpt>
-    <wpt lat="-7.189422" lon="109.919909">
-        <ele>2397.6</ele>
-        <time>2026-06-23T01:58:28.000Z</time>
-        <name>Akar cinta</name>
-    </wpt>
     <wpt lat="-7.189166" lon="109.921178">
-        <ele>2429.2</ele>
+        <ele>2474.0877786777805</ele>
         <time>2026-06-23T02:05:17.000Z</time>
-        <name>Camp area emergency</name>
-    </wpt>
-    <wpt lat="-7.188306" lon="109.922029">
-        <ele>2449.2</ele>
-        <time>2026-06-23T02:09:05.000Z</time>
-        <name>Simpangan Tower dan Puncak</name>
-    </wpt>
-    <wpt lat="-7.187656" lon="109.923777">
-        <ele>2472.6</ele>
-        <time>2026-06-23T02:15:39.000Z</time>
-        <name>Simpangan kalilembu dan Basecamp Dieng</name>
+        <name>Camp Area Emergency</name>
     </wpt>
     <wpt lat="-7.187612" lon="109.924048">
         <ele>2481.9</ele>
         <time>2026-06-23T02:20:06.000Z</time>
         <name>Pos 3</name>
-    </wpt>
-    <wpt lat="-7.190971" lon="109.926953">
-        <ele>2538.5</ele>
-        <time>2026-06-23T02:39:22.000Z</time>
-        <name>Batu khayangan</name>
     </wpt>
     <wpt lat="-7.191275" lon="109.927529">
         <ele>2545.9</ele>
@@ -85,59 +50,16 @@
         <name>Waypoint</name>
     </wpt>
     <wpt lat="-7.192766" lon="109.928627">
-        <ele>2538.5</ele>
+        <ele>2565.5738474090012</ele>
         <time>2026-06-23T03:06:54.000Z</time>
-        <name>Camp telaga wurung</name>
-    </wpt>
-    <wpt lat="-7.195301" lon="109.931873">
-        <ele>2571.4</ele>
-        <time>2026-06-23T03:40:36.000Z</time>
-        <name>Telaga musiman</name>
+        <name>Camp Telaga Wurung</name>
     </wpt>
     <wpt lat="-7.200933" lon="109.936047">
-        <ele>2539.2</ele>
+        <ele>2548.2722055664194</ele>
         <time>2026-06-23T04:06:14.000Z</time>
-        <name>Sunrise camp</name>
-    </wpt>
-    <wpt lat="-7.201563" lon="109.935404">
-        <ele>2542.5</ele>
-        <time>2026-06-23T05:21:26.000Z</time>
-        <name>Sunset camp intersection</name>
-    </wpt>
-    <wpt lat="-7.202" lon="109.935609">
-        <ele>2529.1</ele>
-        <time>2026-06-23T05:22:50.000Z</time>
-        <name>Zona 1 sunrise camp</name>
-    </wpt>
-    <wpt lat="-7.202938" lon="109.934485">
-        <ele>2470.5</ele>
-        <time>2026-06-23T05:32:32.000Z</time>
-        <name>Plawangan zona signal</name>
-    </wpt>
-    <wpt lat="-7.203752" lon="109.932462">
-        <ele>2328.3</ele>
-        <time>2026-06-23T05:55:05.000Z</time>
-        <name>Pos 3 cacingan</name>
-    </wpt>
-    <wpt lat="-7.205911" lon="109.930975">
-        <ele>2212.2</ele>
-        <time>2026-06-23T06:21:58.000Z</time>
-        <name>Sumber air</name>
-    </wpt>
-    <wpt lat="-7.206722" lon="109.930119">
-        <ele>2172.9</ele>
-        <time>2026-06-23T06:29:51.000Z</time>
-        <name>Jalur lama dan baru</name>
-    </wpt>
-    <wpt lat="-7.206781" lon="109.930063">
-        <ele>2170.4</ele>
-        <time>2026-06-23T06:31:40.000Z</time>
-        <name>Pos 2 walangan</name>
-    </wpt>
-    <wpt lat="-7.209445" lon="109.929386">
-        <ele>2047</ele>
-        <time>2026-06-23T06:56:02.000Z</time>
-        <name>Pos Ojek</name>
+        <name>Sunrise Camp</name>
+        <cmt>Navikita by Tepidaun</cmt>
+        <desc>Navikita by Tepidaun</desc>
     </wpt>
     <trk>
         <name>Prau via Dieng</name>
