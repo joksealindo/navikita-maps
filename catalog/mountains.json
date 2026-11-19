@@ -35,7 +35,7 @@
       "id": "prau",
       "thumbnail": "mountain_prau.jpg",
       "name": "Gunung Prau",
-      "region": "Temanggung, Wonosobo, Banjarnegara",
+      "region": "Temanggung Wonosobo Banjarnegara",
       "province": "Jawa Tengah",
       "description": "Katalog rute pendakian Gunung Prau.",
       "routes_catalog": "routes/prau/routes.json",
