@@ -15,6 +15,20 @@
       "description": null,
       "gpx_file": "routes/sindoro/kledung.gpx",
       "status": "draft"
+    },
+    {
+      "id": "alang-alang-sewu",
+      "name": "Alang-Alang-Sewu",
+      "mountain_id": "sindoro",
+      "location": "Kertek Wonosobo",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/sindoro/alang-alang-sewu.gpx",
+      "status": "draft"
     }
   ]
 }
