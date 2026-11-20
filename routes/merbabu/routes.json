@@ -17,6 +17,20 @@
       "status": "draft"
     },
     {
+      "id": "wekas",
+      "name": "Wekas",
+      "mountain_id": "merbabu",
+      "location": "Kec. Getasan, Semarang",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/merbabu/wekas.gpx",
+      "status": "draft"
+    },
+    {
       "id": "selo",
       "name": "Selo",
       "mountain_id": "merbabu",
