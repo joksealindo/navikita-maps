@@ -31,6 +31,20 @@
       "status": "draft"
     },
     {
+      "id": "suwanting",
+      "name": "Suwanting",
+      "mountain_id": "merbabu",
+      "location": "Kec. Sawangan, Magelang",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/merbabu/suwanting.gpx",
+      "status": "draft"
+    },
+    {
       "id": "selo",
       "name": "Selo",
       "mountain_id": "merbabu",
