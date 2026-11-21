@@ -15,6 +15,34 @@
       "description": null,
       "gpx_file": "routes/lawu/candiceto.gpx",
       "status": "draft"
+    },
+    {
+      "id": "cemoro-kandang",
+      "name": "Cemoro Kandang",
+      "mountain_id": "lawu",
+      "location": "Kec. Tawangmangu, Karanganyar",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/lawu/cemoro-kandang.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "cemoro-sewu",
+      "name": "Cemoro Sewu",
+      "mountain_id": "lawu",
+      "location": "Kec. Plaosan, Magetan",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/lawu/cemoro-sewu.gpx",
+      "status": "draft"
     }
   ]
 }
