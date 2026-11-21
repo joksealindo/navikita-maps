@@ -45,8 +45,8 @@
       "id": "lawu",
       "thumbnail": "mountain_lawu.jpg",
       "name": "Gunung Lawu",
-      "region": "Karanganyar Magetan Ngawi",
-      "province": "Jawa Tengah - Jawa Timur",
+      "region": "Karanganyar, Magetan, Ngawi",
+      "province": "Jawa Tengah, Jawa Timur",
       "description": "Katalog rute pendakian Gunung Lawu.",
       "routes_catalog": "routes/lawu/routes.json",
       "is_published": true
