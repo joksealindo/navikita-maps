@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "mountain_id": "slamet",
+  "routes": [
+    {
+      "id": "guci",
+      "name": "Guci",
+      "mountain_id": "slamet",
+      "location": "Kec. Bumijawa, Tegal",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/slamet/guci.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "bambangan",
+      "name": "Bambangan",
+      "mountain_id": "slamet",
+      "location": "Kec. Karangreja, Purbalingga",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/slamet/bambangan.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "gunung-malang",
+      "name": "Gunung Malang",
+      "mountain_id": "slamet",
+      "location": "Karangreja Purbalingga",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/slamet/gunung-malang.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "kaliwadas",
+      "name": "Kaliwadas",
+      "mountain_id": "slamet",
+      "location": "Kec. Sirampog, Brebes",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/slamet/kaliwadas.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "dipajaya",
+      "name": "Dipajaya",
+      "mountain_id": "slamet",
+      "location": "Kec. Pulosari, Pemalang",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/slamet/dipajaya.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "cemara-sakti",
+      "name": "Cemara Sakti",
+      "mountain_id": "slamet",
+      "location": "Pulosari Pemalang",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/slamet/cemara-sakti.gpx",
+      "status": "draft"
+    }
+  ]
+}
