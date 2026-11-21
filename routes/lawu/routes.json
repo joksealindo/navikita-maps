@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "mountain_id": "lawu",
+  "routes": [
+    {
+      "id": "ceto",
+      "name": "Ceto",
+      "mountain_id": "lawu",
+      "location": "Kec. Jenawi, Karanganyar",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/prau/ceto.gpx",
+      "status": "draft"
+    }
+  ]
+}
