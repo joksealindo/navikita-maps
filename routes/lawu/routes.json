@@ -3,8 +3,8 @@
   "mountain_id": "lawu",
   "routes": [
     {
-      "id": "candi-ceto",
-      "name": "Candi Ceto",
+      "id": "candi-cetho",
+      "name": "Candi Cetho",
       "mountain_id": "lawu",
       "location": "Kec. Jenawi, Karanganyar",
       "start_point": null,
@@ -13,7 +13,7 @@
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/lawu/candiceto.gpx",
+      "gpx_file": "routes/lawu/candi-cetho.gpx",
       "status": "draft"
     },
     {
@@ -42,6 +42,20 @@
       "difficulty": null,
       "description": null,
       "gpx_file": "routes/lawu/cemoro-sewu.gpx",
+      "status": "draft"
+    },
+    {
+      "id": "singolangu",
+      "name": "Singolangu",
+      "mountain_id": "lawu",
+      "location": "Kec. Plaosan, Magetan",
+      "start_point": null,
+      "distance_km": null,
+      "elevation_gain_m": null,
+      "estimated_duration": null,
+      "difficulty": null,
+      "description": null,
+      "gpx_file": "routes/lawu/singolangu.gpx",
       "status": "draft"
     }
   ]
