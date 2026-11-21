@@ -3,17 +3,17 @@
   "mountain_id": "slamet",
   "routes": [
     {
-      "id": "guci",
-      "name": "Guci",
+      "id": "permadi-guci",
+      "name": "Permadi Guci",
       "mountain_id": "slamet",
-      "location": "Kec. Bumijawa, Tegal",
+      "location": "Bumijawa Tegal",
       "start_point": null,
       "distance_km": null,
       "elevation_gain_m": null,
       "estimated_duration": null,
       "difficulty": null,
       "description": null,
-      "gpx_file": "routes/slamet/guci.gpx",
+      "gpx_file": "routes/slamet/permadi-guci.gpx",
       "status": "draft"
     },
     {
