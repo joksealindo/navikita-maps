@@ -40,6 +40,16 @@
       "description": "Katalog rute pendakian Gunung Prau.",
       "routes_catalog": "routes/prau/routes.json",
       "is_published": true
+    },
+    {
+      "id": "lawu",
+      "thumbnail": "mountain_lawu.jpg",
+      "name": "Gunung Lawu",
+      "region": "Karanganyar Magetan Ngawi",
+      "province": "Jawa Tengah - Jawa Timur",
+      "description": "Katalog rute pendakian Gunung Lawu.",
+      "routes_catalog": "routes/lawu/routes.json",
+      "is_published": true
     }
   ]
 }
