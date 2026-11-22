@@ -50,6 +50,16 @@
       "description": "Katalog rute pendakian Gunung Lawu.",
       "routes_catalog": "routes/lawu/routes.json",
       "is_published": true
+    },
+    {
+      "id": "slamet",
+      "thumbnail": "mountain_slamet.jpg",
+      "name": "Gunung Slamet",
+      "region": "Banyumas Purbalingga Pemalang Tegal Brebes",
+      "province": "Jawa Tengah",
+      "description": "Katalog rute pendakian Gunung Slamet.",
+      "routes_catalog": "routes/lawu/routes.json",
+      "is_published": true
     }
   ]
 }
