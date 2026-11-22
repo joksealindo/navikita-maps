@@ -58,7 +58,7 @@
       "region": "Banyumas Purbalingga Pemalang Tegal Brebes",
       "province": "Jawa Tengah",
       "description": "Katalog rute pendakian Gunung Slamet.",
-      "routes_catalog": "routes/lawu/routes.json",
+      "routes_catalog": "routes/slamet/routes.json",
       "is_published": true
     }
   ]
